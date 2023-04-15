@@ -1,0 +1,9 @@
+.item{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+a{
+    color: rgb(2, 1, 2);
+}
